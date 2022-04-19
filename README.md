@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
+=======
+#Project
+>>>>>>> Stashed changes
 ## Libraries used:
 
 import numpy as np<br>
