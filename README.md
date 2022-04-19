@@ -1,5 +1,3 @@
-# P29
-
 ## Libraries used:
 
 import numpy as np<br>
